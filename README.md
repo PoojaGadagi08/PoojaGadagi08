@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pooja-gadagi-070a53234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pooja gadagi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pooja-gadagi-070a53234/" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2F3d-linkedin-logo-application_353336-63.jpg&tbnid=i2310DsjgwnHlM&vet=12ahUKEwj9yt7Zv6mCAxUa5TgGHRcqB3AQMygHegQIARBY..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2F3d-linkedin-logo-application_12206076.htm&docid=w7dt4ydampwSkM&w=626&h=626&q=linkedin%20img&ved=2ahUKEwj9yt7Zv6mCAxUa5TgGHRcqB3AQMygHegQIARBY" alt="pooja gadagi" height="30" width="40" /></a>
+  
 <a href="https://www.codechef.com/users/poojagadagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="poojagadagi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/poojagadagi56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="poojagadagi56" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/pooja1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pooja1210" height="30" width="40" /></a>

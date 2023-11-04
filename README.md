@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![logo](https://github.com/PoojaGadagi08/PoojaGadagi08/blob/main/B%20(1)%20(1).png)
+![logo](https://github.com/PoojaGadagi08/PoojaGadagi08/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Pooja Gadagi</h1>
 <h3 align="center">A future Software Engineer from India</h3>
 
